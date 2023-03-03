@@ -1,19 +1,19 @@
 {
   "students" [
   {
-    "name" = "blu",
-    "age"= 22,
-    "email" = "jonepetromano10@gmail.com",
+    "name" : "blu",
+    "age": 22,
+    "email" : "jonepetromano10@gmail.com",
   },
   {
-    "name" = "jay",
-    "age"= 23
-    "email" = "jonepetromano10@gmail.com",
+    "name" : "jay",
+    "age": 23
+    "email" : "jonepetromano10@gmail.com",
   },
   {
-    "name" = "pre",
-    "age"= 21,
-    "email" = "jonepetromano10@gmail.com",
+    "name" : "pre",
+    "age": 21,
+    "email" : "jonepetromano10@gmail.com",
   }
  ]
 }
