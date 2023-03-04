@@ -1,6 +1,6 @@
 
 
-{
+
   {
     "student": [
      { 
@@ -9,7 +9,7 @@
         "quotes": "You only live once but if you do it right, once is enough."
       }
     ]
-  },
+  }
 
 {
   "info": [
@@ -18,7 +18,7 @@
       "code": "T239",
       "email": "1901103470@student.buksu.edu.ph"
     }
-    ]
+  ]   ]
 }
-}
+
 
