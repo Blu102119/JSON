@@ -1,3 +1,6 @@
+
+{
+
   {
     "student": [
      { 
@@ -8,3 +11,14 @@
     ]
   }
  
+{
+  "info": [
+    {
+      "section": "BSIT_2D",
+      "code": "T239",
+      "email": "1901103470@student.buksu.edu.ph"
+    }
+    ]
+}
+
+}
