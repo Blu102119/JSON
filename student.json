@@ -1,0 +1,24 @@
+
+{
+
+  {
+    "student": [
+     { 
+       "name": "JONEPET C. ROMANO",
+        "age": 22,
+        "quotes": "You only live once but if you do it right, once is enough."
+      }
+    ]
+  }
+ 
+{
+  "info": [
+    {
+      "section": "BSIT_2D",
+      "code": "T239",
+      "email": "1901103470@student.buksu.edu.ph"
+    }
+    ]
+}
+
+}
