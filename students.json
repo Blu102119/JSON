@@ -7,12 +7,8 @@
        "name": "JONEPET C. ROMANO",
         "age": 22,
         "quotes": "You only live once but if you do it right, once is enough."
-      },
-      { 
-       "name": "QUEENNIE GRACE BAHIAN",
-        "age": 23,
-        "quotes": "To see is to believe."
       }
+     
     ],
   
   "info": [
@@ -20,12 +16,8 @@
       "section": "BSIT_2D",
       "code": "T239",
       "email": "1901103470@student.buksu.edu.ph"
-    },
-    {
-      "section": "BSIT_2D",
-      "code": "T214",
-      "email": "qgbahian@gmail.com"
     }
+    
   ]   
 }
 
